@@ -25,4 +25,4 @@ while datetime.now() < end_time:
         print("Failed to fetch USD/ARS exchange rate.")
 
     # Delay for 2 minutes (120 seconds)
-    time.sleep(60)
+    time.sleep(120)
